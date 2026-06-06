@@ -1,0 +1,11 @@
+/* This style only applies to the link of the page you are currently on */
+.active-link {
+  color: #58a6ff !important;
+  border-bottom: 2px solid #58a6ff;
+  padding-bottom: 4px;
+}
+
+/* Add a nice hover effect for all links */
+a:hover {
+  color: #ffffff !important;
+}
